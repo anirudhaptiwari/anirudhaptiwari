@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anirudha Pradumna Tiwari
 - 👀 I’m interested in Cloud,Android,Cyber-Security,Big Data Computing.
 - 🌱 I’m currently learning Cloud,Cyber-Security,Big Data Computing,Android.
-- 💞️ I’m looking to collaborate on Cloud,ANdroid,Cyber-Security.
+- 💞️ I’m looking to collaborate on Cloud,Android,Cyber-Security.
 - 📫 How to reach me 
 - Linkedin : www.linkedin.com/in/anirudhaptiwari.
 
